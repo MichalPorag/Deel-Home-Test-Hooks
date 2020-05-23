@@ -1,8 +1,4 @@
-# Snake Game
-A little game I created to practice React Hooks.
-
-See it live in https://michalporag.github.io/snakeGame/
-
+# Deel - Home Test Whit Hooks
 ## To install and run:
 ### Install:
 * npm install -g react react-dom
